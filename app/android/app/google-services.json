@@ -1,29 +1,29 @@
 {
-    "project_info": {
-      "project_number": "1047860968893",
-      "project_id": "hcgateway-fcm",
-      "storage_bucket": "hcgateway-fcm.appspot.com"
-    },
-    "client": [
-      {
-        "client_info": {
-          "mobilesdk_app_id": "1:1047860968893:android:6fdf29797dda6c99dde6d4",
-          "android_client_info": {
-            "package_name": "dev.shuchir.hcgateway"
-          }
-        },
-        "oauth_client": [],
-        "api_key": [
-          {
-            "current_key": "AIzaSyDFy0mrwlLwAXUmhQqjsUg8PHDtIuiSgzI"
-          }
-        ],
-        "services": {
-          "appinvite_service": {
-            "other_platform_oauth_client": []
-          }
+  "project_info": {
+    "project_number": "697026495018",
+    "project_id": "hcg-fork",
+    "storage_bucket": "hcg-fork.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697026495018:android:068321c81981bf7857b953",
+        "android_client_info": {
+          "package_name": "dev.altaren.hcgfork"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4oS0w6ETxRgWwR8KmnhzgVrkKZzckCRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
         }
       }
-    ],
-    "configuration_version": "1"
-  }
+    }
+  ],
+  "configuration_version": "1"
+}
